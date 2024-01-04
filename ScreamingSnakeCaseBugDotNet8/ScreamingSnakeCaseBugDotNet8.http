@@ -1,0 +1,6 @@
+@ScreamingSnakeCaseBugDotNet8_HostAddress = http://localhost:5015
+
+GET {{ScreamingSnakeCaseBugDotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
